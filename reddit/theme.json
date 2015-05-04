@@ -1,0 +1,32 @@
+{
+  url: "www.reddit.com",
+  CSS: "#sr-header-area {
+  display: none;
+}
+
+.listing-chooser {
+	display: none;
+}
+
+.side {
+  display: none;
+}
+
+#header-bottom-right {
+  display: none;
+}
+
+#header-bottom-left {
+  padding-left: 140px;
+  padding-top: 30px;
+}
+
+.trending-subreddits-content {
+  visibility: hidden;
+}
+
+.entry {
+	width: 70%;
+}
+"
+}
