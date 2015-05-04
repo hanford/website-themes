@@ -1,32 +1,4 @@
 {
-  url: "www.reddit.com",
-  CSS: "#sr-header-area {
-  display: none;
-}
-
-.listing-chooser {
-	display: none;
-}
-
-.side {
-  display: none;
-}
-
-#header-bottom-right {
-  display: none;
-}
-
-#header-bottom-left {
-  padding-left: 140px;
-  padding-top: 30px;
-}
-
-.trending-subreddits-content {
-  visibility: hidden;
-}
-
-.entry {
-	width: 70%;
-}
-"
+  "url": "www.reddit.com",
+  "CSS": "I3NyLWhlYWRlci1hcmVhIHsNCiAgZGlzcGxheTogbm9uZTsNCn0NCg0KLmxpc3RpbmctY2hvb3NlciB7DQoJZGlzcGxheTogbm9uZTsNCn0NCg0KLnNpZGUgew0KICBkaXNwbGF5OiBub25lOw0KfQ0KDQojaGVhZGVyLWJvdHRvbS1yaWdodCB7DQogIGRpc3BsYXk6IG5vbmU7DQp9DQoNCiNoZWFkZXItYm90dG9tLWxlZnQgew0KICBwYWRkaW5nLWxlZnQ6IDE0MHB4Ow0KICBwYWRkaW5nLXRvcDogMzBweDsNCn0NCg0KLnRyZW5kaW5nLXN1YnJlZGRpdHMtY29udGVudCB7DQogIHZpc2liaWxpdHk6IGhpZGRlbjsNCn0NCg0KLmVudHJ5IHsNCgl3aWR0aDogNzAlOw0KfQ=="
 }
